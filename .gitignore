@@ -1,4 +1,4 @@
 microservices-docker-flask-react-v2.3.1.pdf
-**/env
+**/.env
 **/__pycache__
 **.idea/
