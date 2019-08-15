@@ -13,6 +13,7 @@ def recreatedb():
     db.create_all()
     db.session.commit()
 
+
 @cli.command()
 def test():
     """Runs the tests without code coverage"""
